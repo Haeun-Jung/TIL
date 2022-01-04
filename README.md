@@ -21,12 +21,13 @@
 --!>
 
 # 📌 Web
-- HTML
-  - [웹 표준](https://github.com/Haeun-Jung/TIL/blob/master/HTML/Web-Standards.md)
+- [웹 표준](https://github.com/Haeun-Jung/TIL/blob/master/Web/Web-Standards.md)
+- [UI와 UX](https://github.com/Haeun-Jung/TIL/blob/master/Web/UI&UX.md)
 
 <br/>
 
+<!--
 # 📌 ETC
 
 <br/>
-
+--!>
