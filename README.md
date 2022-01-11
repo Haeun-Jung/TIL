@@ -14,11 +14,17 @@
 # 📌 Algorithm
 
 <br>
+--!>
 
-# 📌 Language
+# 📌 Network
+- [HTTP와 HTTPS](https://github.com/Haeun-Jung/TIL/blob/master/Network/HTTP&HTTPS.md)
 
 <br>
---!>
+
+# 📌 Javascript
+  - [forEach()와 map()의 차이](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/forEach()&map().md)
+
+<br>
 
 # 📌 Web
 - [웹 표준](https://github.com/Haeun-Jung/TIL/blob/master/Web/Web-Standards.md)
