@@ -23,7 +23,9 @@
 <br>
 
 # 📌 Javascript
+  - [var, let, const 차이](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/var&let&const.md)
   - [forEach()와 map()의 차이](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/forEach()&map().md)
+  - [slice, splice, split 차이](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/slice&splice&split.md)
 
 <br>
 
@@ -32,6 +34,7 @@
 - [UI와 UX](https://github.com/Haeun-Jung/TIL/blob/master/Web/UI&UX.md)
 - [Vue.js](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js)
   - [this](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js/this.md)
+  - [LifeCycle](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js/LifeCycle.md)
 
 <br>
 
