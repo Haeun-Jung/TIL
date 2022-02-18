@@ -35,6 +35,7 @@
 - [Vue.js](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js)
   - [this](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js/this.md)
   - [LifeCycle](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js/LifeCycle.md)
+  - [Computed와 Watch](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js/Computed&Watch.md)
 
 <br>
 
