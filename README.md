@@ -16,6 +16,19 @@
 <br>
 --!>
 
+<br>
+
+# 📌 Basic
+- [MVC패턴](https://github.com/Haeun-Jung/TIL/blob/main/Basic/MVC_Pattern.md)
+- [RESTful API와 REST API](https://github.com/Haeun-Jung/TIL/blob/main/Basic/RESTful_API%26REST_API.md)
+
+<br>
+
+# 📌 Data Structure
+- [배열(Array)과 연결 리스트(Linked List)의 차이점](https://github.com/Haeun-Jung/TIL/blob/main/DataStructure/Array%26LinkedList.md)
+
+<br>
+
 # 📌 Network
 - [CORS](https://github.com/Haeun-Jung/TIL/blob/master/Network/CORS.md)
 - [HTTP와 HTTPS](https://github.com/Haeun-Jung/TIL/blob/master/Network/HTTP&HTTPS.md)
