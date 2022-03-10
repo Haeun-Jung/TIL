@@ -5,7 +5,6 @@
 
 **오늘 배운 내용을 정리하기✨**
 
-<br>
 <!--
 # 📌 Computer Science
 
@@ -21,6 +20,7 @@
 # 📌 Basic
 - [MVC패턴](https://github.com/Haeun-Jung/TIL/blob/main/Basic/MVC_Pattern.md)
 - [RESTful API와 REST API](https://github.com/Haeun-Jung/TIL/blob/main/Basic/RESTful_API%26REST_API.md)
+- [동기와 비동기](https://github.com/Haeun-Jung/TIL/blob/main/Basic/동기와_비동기.md)
 
 <br>
 
@@ -37,6 +37,11 @@
 
 # 📌 Operating System
 - [Process와 Thread](https://github.com/Haeun-Jung/TIL/blob/master/OperatingSystem/Process&Thread.md)
+
+<br>
+
+# 📌 Database
+- [이상현상](https://github.com/Haeun-Jung/TIL/blob/master/Database/이상현상.md)
 
 <br>
 
