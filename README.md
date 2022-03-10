@@ -5,6 +5,7 @@
 
 **오늘 배운 내용을 정리하기✨**
 
+<br>
 <!--
 # 📌 Computer Science
 
@@ -14,8 +15,6 @@
 
 <br>
 --!>
-
-<br>
 
 # 📌 Basic
 - [MVC패턴](https://github.com/Haeun-Jung/TIL/blob/main/Basic/MVC_Pattern.md)
