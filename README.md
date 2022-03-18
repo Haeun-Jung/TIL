@@ -18,8 +18,10 @@
 
 # 📌 Basic
 - [MVC패턴](https://github.com/Haeun-Jung/TIL/blob/main/Basic/MVC_Pattern.md)
+- [OOP](https://github.com/Haeun-Jung/TIL/blob/main/Basic/OOP.md)
 - [RESTful API와 REST API](https://github.com/Haeun-Jung/TIL/blob/main/Basic/RESTful_API%26REST_API.md)
 - [동기와 비동기](https://github.com/Haeun-Jung/TIL/blob/main/Basic/동기와_비동기.md)
+- [프레임워크와 라이브러리의 차이](https://github.com/Haeun-Jung/TIL/blob/main/Basic/프레임워크와_라이브러리.md)
 
 <br>
 
@@ -52,6 +54,7 @@
 <br>
 
 # 📌 Web
+- [브라우저 작동원리](https://github.com/Haeun-Jung/TIL/blob/master/Web/브라우저_작동원리.md)
 - [웹 표준](https://github.com/Haeun-Jung/TIL/blob/master/Web/Web-Standards.md)
 - [UI와 UX](https://github.com/Haeun-Jung/TIL/blob/master/Web/UI&UX.md)
 - [localStorage와 sessionStorage](https://github.com/Haeun-Jung/TIL/blob/master/Web/localStorage&sessionStorage.md)
