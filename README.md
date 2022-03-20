@@ -21,6 +21,7 @@
 - [OOP](https://github.com/Haeun-Jung/TIL/blob/main/Basic/OOP.md)
 - [RESTful API와 REST API](https://github.com/Haeun-Jung/TIL/blob/main/Basic/RESTful_API%26REST_API.md)
 - [동기와 비동기](https://github.com/Haeun-Jung/TIL/blob/main/Basic/동기와_비동기.md)
+- [스크립트언어와 컴파일언어의 차이](https://github.com/Haeun-Jung/TIL/blob/main/Basic/스크립트언어와_컴파일언어.md)
 - [프레임워크와 라이브러리의 차이](https://github.com/Haeun-Jung/TIL/blob/main/Basic/프레임워크와_라이브러리.md)
 
 <br>
