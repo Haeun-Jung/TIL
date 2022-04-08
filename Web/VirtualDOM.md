@@ -1,3 +1,8 @@
+# DOM(Document Object Model)
+HTML, XML 문서의 프로그래밍 인터페이스를 의미한다. HTML은 브라우저에서 실행될 수 있게끔 DOM Tree로 파싱되고, 이를 바탕으로 렌더링이 된다. DOM은 문서의 구조화된 표현(structured representation)을 제공하며 프로그래밍 언어가 DOM 구조에 접근할 수 있는 방법을 제공하여 그들이 문서 구조, 스타일, 내용 등을 변경할 수 있게 돕는다. DOM은 nodes와 objects로 문서를 표현한다. 이들은 웹 페이지를 스크립트 또는 프로그래밍 언어들에서 사용될 수 있게 연결시켜주는 역할을 담당한다.
+
+<br/>
+
 # Virtual DOM(Document Object Model)
 DOM과 유사한 객체를 메모리에 올려놓고, 변경 사항이 생기면 Virtual DOM을 바꾸고, 실제 DOM에서는 변경 사항만 변경할 수 있게 하여 더 반응성이 빠른 웹을 구현할 수 있다.
 ![Virtual DOM](https://elmprogramming.com/images/chapter-5/5.3-virtual-dom/elm-runtime-virtual-dom.svg)
@@ -18,4 +23,6 @@ DOM과 유사한 객체를 메모리에 올려놓고, 변경 사항이 생기면
 > https://programming119.tistory.com/236?category=930152   
 > https://velog.io/@sbinha/React%EC%97%90%EC%84%9C-Virtual-DOM  
 > https://www.howdy-mj.me/dom/what-is-dom/  
-> https://elmprogramming.com/virtual-dom.html
+> https://elmprogramming.com/virtual-dom.html  
+> https://amyhyemi.tistory.com/m/224  
+> https://developer.mozilla.org/ko/docs/Web/API/Document_Object_Model/Introduction
