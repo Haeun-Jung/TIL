@@ -59,6 +59,8 @@
 <br>
 
 ## 📌 Javascript
+  - [원시타입과 참조타입](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/원시타입과_참조타입.md)
+  - [==와 ===](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/==&===.md)
   - [Attribute와 Property](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/Attribute&Property.md)
   - [Hoisting](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/Hoisting.md)
   - [this](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/this.md)
@@ -66,6 +68,7 @@
   - [forEach()와 map()의 차이](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/forEach()&map().md)
   - [slice, splice, split 차이](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/slice&splice&split.md)
   - [null, undefined, undeclared, NaN](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/null&undefined&undeclared&NaN.md)
+  - [이벤트 버블링](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/이벤트버블링.md)
 
 <br>
 
