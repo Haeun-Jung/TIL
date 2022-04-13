@@ -65,6 +65,7 @@
   - [Hoisting](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/Hoisting.md)
   - [this](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/this.md)
   - [var, let, const 차이](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/var&let&const.md)
+  - [Closure](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/Closure.md)
   - [forEach()와 map()의 차이](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/forEach()&map().md)
   - [slice, splice, split 차이](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/slice&splice&split.md)
   - [null, undefined, undeclared, NaN](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/null&undefined&undeclared&NaN.md)
@@ -74,9 +75,9 @@
 
 ## 📌 Web
 - [브라우저 작동원리](https://github.com/Haeun-Jung/TIL/blob/master/Web/브라우저_작동원리.md)
+- [브라우저 저장소](https://github.com/Haeun-Jung/TIL/blob/master/Web/브라우저_저장소.md)
 - [웹 표준](https://github.com/Haeun-Jung/TIL/blob/master/Web/Web-Standards.md)
 - [UI와 UX](https://github.com/Haeun-Jung/TIL/blob/master/Web/UI&UX.md)
-- [localStorage와 sessionStorage](https://github.com/Haeun-Jung/TIL/blob/master/Web/localStorage&sessionStorage.md)
 - [Virtual DOM](https://github.com/Haeun-Jung/TIL/blob/master/Web/VirtualDOM.md)
 - ### [Vue.js](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js)
   - [this](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js/this.md)
@@ -84,6 +85,7 @@
   - [Computed와 Watch](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js/Computed&Watch.md)
 - ### CSS
   - [block, inline, inline-block의 차이](https://github.com/Haeun-Jung/TIL/blob/master/Web/CSS/block&inline&inline-block.md)
+  - [position](https://github.com/Haeun-Jung/TIL/blob/master/Web/CSS/position.md)
 
 <br>
 
