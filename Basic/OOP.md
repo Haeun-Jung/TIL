@@ -11,7 +11,13 @@
 
 <br>
 
-### 객체 지향적 설계 원칙
+## 객체 지향 장단점
+👍 재사용성이 뛰어나고 유지보수하기 쉽다.  
+👎 개발 속도, 실행 속도가 느리다.
+
+<br>
+
+## 객체 지향적 설계 원칙
 - **SRP(Single Responsibility Principle)** : 단일 책임 원칙  
   - 클래스는 단 하나의 책임을 가져야 하며 클래스를 변경하는 이유는 단 하나의 이유이어야 한다.
 - **OCP(Open-Closed Principle)** : 개방-폐쇄 원칙  
@@ -23,9 +29,20 @@
 - **DIP(Dependency Inversion Principle)** : 의존 역전 원칙  
   - 고수준 모듈은 저수준 모듈의 구현에 의존해서는 안된다.
 
+<br>
+
+## 객체 지향 언어
+- JAVA
+- C++
+- C#
+- Python
+
+<br>
+
 ## 참고
 
 > https://sisparang.tistory.com/38  
 > https://mangkyu.tistory.com/88  
 > https://theheydaze.tistory.com/603  
-> https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Development_common_sense
+> https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Development_common_sense  
+> https://velog.io/@co_mong/%EB%A9%B4%EC%A0%91-%EA%B3%B5%ED%86%B5-%EC%A7%88%EB%AC%B8
