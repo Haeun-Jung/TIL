@@ -38,7 +38,7 @@
 
 <br>
 
-## 📌 Context Switching
+## 📌 [Context Switching](https://github.com/Haeun-Jung/TIL/blob/main/OperatingSystem/Context_Switching.md)
 
 Multi Process 환경에서 CPU가 어떤 하나의 Process를 실행하고 있는 상태에서 인터럽트(Interrupt) 요청에 의해 다음 우선순위의 Process가 실행되어야 할 때 **기존의 Process의 상태/레지스터 값(Context)을 저장하고 CPU가 다음 Process를 수행하도록 새로운 Process의 상태/레지스터 값(Context)를 교체**하는 작업
 
