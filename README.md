@@ -50,6 +50,7 @@
 
 ## 📌 Operating System
 - [Process와 Thread](https://github.com/Haeun-Jung/TIL/blob/master/OperatingSystem/Process&Thread.md)
+- [Context Switching](https://github.com/Haeun-Jung/TIL/blob/main/OperatingSystem/Context_Switching.md)
 
 <br>
 
