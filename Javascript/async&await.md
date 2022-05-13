@@ -18,7 +18,7 @@ async function 함수명() {
 
 <br/>
 
-## Promise와 차이점
+## [Promise](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/Promise.md)와 차이점
  - Promise는 .catch()로 에러 핸들링이 가능하다. 하지만, async/await은 에러 핸들링 기능이 따로 없기 때문에 try/catch를 활용한다.
  - Promise는 .then()을 계속 반복할 우려가 있다. 코드가 길어질수록 async/await을 사용하면 가독성이 좋아진다.
 
