@@ -14,8 +14,7 @@
 4. [Operating System](#-operating-system)
 5. [Database](#-database)
 6. [Javascript](#-javascript)
-7. [Typescript](#-typescript)
-8. [Web](#-web)
+7. [Web](#-web)
 
 <br>
 <!--
@@ -76,10 +75,8 @@
   - [substr, substring 차이](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/substr&substring.md)
   - [이벤트 버블링](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/이벤트버블링.md)
   - [npm](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/npm.md)
-
-<br>
-
-## 📌 [Typescript](https://github.com/Haeun-Jung/TIL/blob/master/Typescript)
+  - [Typescript](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/Typescript)
+    - [프론트엔드 프레임워크](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/Typescript/프론트엔드_프레임워크.md)
 
 <br>
 
