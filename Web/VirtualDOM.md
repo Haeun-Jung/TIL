@@ -34,4 +34,5 @@ DOM과 유사한 객체를 메모리에 올려놓고, 변경 사항이 생기면
 > https://www.howdy-mj.me/dom/what-is-dom/  
 > https://elmprogramming.com/virtual-dom.html  
 > https://amyhyemi.tistory.com/m/224  
-> https://developer.mozilla.org/ko/docs/Web/API/Document_Object_Model/Introduction
+> https://developer.mozilla.org/ko/docs/Web/API/Document_Object_Model/Introduction  
+> http://www.tcpschool.com/javascript/js_dom_concept
