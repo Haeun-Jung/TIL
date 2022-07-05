@@ -30,7 +30,10 @@ OSI 모델에서 다른 네트워크와 통신하기 위한 경로 설정을 위
 ### Q. HTTP 프로토콜 중 'PATCH'
 리소스의 부분을 수정하는데 사용하며 의미론적으로 UPDATE와 더 가까운 HTTP 메소드
 
-### Q. URI
+### Q. URI(Uniform Resource Identifier)
+특정 리소스를 식별하는 통합 자원 식별자. 자원을 나타내는 유일한 주소
+
+### Q. URL(Uniform Resource Locator)
 흔히 웹 주소라고도 하며, 컴퓨터 네트워크 상에서 리소스가 어디 있는지 알려주기 위한 규약
 
 <br>
