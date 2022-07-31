@@ -58,6 +58,7 @@
 <br>
 
 ## 📌 Database
+- [정규화](https://github.com/Haeun-Jung/TIL/blob/master/Database/정규화.md)  
 - [이상현상](https://github.com/Haeun-Jung/TIL/blob/master/Database/이상현상.md)
 
 <br>
