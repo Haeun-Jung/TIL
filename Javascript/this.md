@@ -62,11 +62,6 @@ foo.bind(bar)(); // bar
 
 <br/>
 
-## use strict모드에서의 this
-일반 함수에서의 this는 undefined가 바인딩 된다.
-
-<br/>
-
 ### 참고
 > [프론트엔드 개발자 면접 질문(기술면접) 정리](https://sunnykim91.tistory.com/121)  
 > https://poiemaweb.com/js-this  
