@@ -68,6 +68,7 @@
   - [얕은 복사, 깊은 복사](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/얕은복사_깊은복사.md)
   - [화살표 함수](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/ArrowFunction.md)
   - [==와 ===](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/==&===.md)
+  - [Ajax](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/Ajax.md)
   - [Attribute와 Property](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/Attribute&Property.md)
   - [Hoisting](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/Hoisting.md)
   - [this](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/this.md)
@@ -97,6 +98,7 @@
   - [this](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js/this.md)
   - [LifeCycle](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js/LifeCycle.md)
   - [Computed와 Watch](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js/Computed&Watch.md)
+  - [Vuex](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js/Vuex.md)
 - ### [React](https://github.com/Haeun-Jung/TIL/blob/master/Web/React)
   - [useEffect()](https://github.com/Haeun-Jung/TIL/blob/master/Web/React/useEffect().md)
 - ### CSS
