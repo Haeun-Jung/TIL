@@ -91,9 +91,10 @@
 ## 📌 Web
 - [브라우저 작동원리](https://github.com/Haeun-Jung/TIL/blob/master/Web/브라우저_작동원리.md)
 - [브라우저 저장소](https://github.com/Haeun-Jung/TIL/blob/master/Web/브라우저_저장소.md)
+- [Virtual DOM](https://github.com/Haeun-Jung/TIL/blob/master/Web/VirtualDOM.md)
+- [JWT](https://github.com/Haeun-Jung/TIL/blob/master/Web/JWT.md)
 - [웹 표준](https://github.com/Haeun-Jung/TIL/blob/master/Web/Web-Standards.md)
 - [UI와 UX](https://github.com/Haeun-Jung/TIL/blob/master/Web/UI&UX.md)
-- [Virtual DOM](https://github.com/Haeun-Jung/TIL/blob/master/Web/VirtualDOM.md)
 - ### [Vue.js](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js)
   - [this](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js/this.md)
   - [LifeCycle](https://github.com/Haeun-Jung/TIL/blob/master/Web/Vue.js/LifeCycle.md)
