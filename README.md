@@ -14,7 +14,8 @@
 4. [Operating System](#-operating-system)
 5. [Database](#-database)
 6. [Javascript](#-javascript)
-7. [Web](#-web)
+7. [Python](#-python)
+8. [Web](#-web)
 
 <br>
 <!--
@@ -85,6 +86,14 @@
   - [npm](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/npm.md)
   - [Typescript](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/Typescript)
     - [프론트엔드 프레임워크](https://github.com/Haeun-Jung/TIL/blob/master/Javascript/Typescript/프론트엔드_프레임워크.md)
+
+<br>
+
+## 📌 Python
+  - [자료형](https://github.com/Haeun-Jung/TIL/blob/master/Python/자료형.md)
+  - [map](https://github.com/Haeun-Jung/TIL/blob/master/Python/map.md)
+  - [Queue와 deque](https://github.com/Haeun-Jung/TIL/blob/master/Python/Queue&deque.md)
+  - [람다 표현식](https://github.com/Haeun-Jung/TIL/blob/master/Python/lambda.md)
 
 <br>
 
