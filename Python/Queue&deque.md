@@ -10,4 +10,5 @@
 <br>
 
 ## 참고
-> https://programming119.tistory.com/184
+> https://programming119.tistory.com/184  
+> https://www.acmicpc.net/board/view/49166
