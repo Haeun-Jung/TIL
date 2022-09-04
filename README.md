@@ -60,6 +60,7 @@
 <br>
 
 ## 📌 Database
+- [관계형 데이터베이스](https://github.com/Haeun-Jung/TIL/blob/master/Database/관계형DB.md)  
 - [정규화](https://github.com/Haeun-Jung/TIL/blob/master/Database/정규화.md)  
 - [이상현상](https://github.com/Haeun-Jung/TIL/blob/master/Database/이상현상.md)
 
