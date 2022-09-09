@@ -48,6 +48,7 @@
 
 ## 📌 Network
 - [HTTP와 HTTPS](https://github.com/Haeun-Jung/TIL/blob/master/Network/HTTP&HTTPS.md)
+- [HTTP 메소드](https://github.com/Haeun-Jung/TIL/blob/master/Network/HTTPmethod.md)
 - [CORS](https://github.com/Haeun-Jung/TIL/blob/master/Network/CORS.md)
 - [DNS](https://github.com/Haeun-Jung/TIL/blob/master/Network/DNS.md)
 - [TCP 3-way & 4-way handshake](https://github.com/Haeun-Jung/TIL/blob/master/Network/TCP_3-way_4-way_handshake.md)
