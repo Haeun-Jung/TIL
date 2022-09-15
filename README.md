@@ -58,6 +58,7 @@
 
 ## 📌 Operating System
 - [Process와 Thread](https://github.com/Haeun-Jung/TIL/blob/master/OperatingSystem/Process&Thread.md)
+- [유저 레벨 스레드와 커널 레벨 스레드](https://github.com/Haeun-Jung/TIL/blob/master/OperatingSystem/UserThread&KernelThread.md)
 - [Context Switching](https://github.com/Haeun-Jung/TIL/blob/main/OperatingSystem/Context_Switching.md)
 
 <br>
@@ -106,6 +107,7 @@
 ## 📌 Web
 - [브라우저 작동원리](https://github.com/Haeun-Jung/TIL/blob/master/Web/브라우저_작동원리.md)
 - [브라우저 저장소](https://github.com/Haeun-Jung/TIL/blob/master/Web/브라우저_저장소.md)
+- [쿠키와 세션](https://github.com/Haeun-Jung/TIL/blob/master/Web/쿠키와_세션.md)
 - [Web Socket](https://github.com/Haeun-Jung/TIL/blob/master/Web/WebSocket.md)
 - [Virtual DOM](https://github.com/Haeun-Jung/TIL/blob/master/Web/VirtualDOM.md)
 - [JWT](https://github.com/Haeun-Jung/TIL/blob/master/Web/JWT.md)
