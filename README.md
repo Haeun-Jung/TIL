@@ -9,13 +9,14 @@
 
 **📚 Contents**
 1. [Basic](#-basic)
-2. [Data Structure](#-data-structure)
-3. [Network](#-network)
-4. [Operating System](#-operating-system)
-5. [Database](#-database)
-6. [Javascript](#-javascript)
-7. [Python](#-python)
-8. [Web](#-web)
+2. [Computer Architecture](#-computer-architecture)
+3. [Data Structure](#-data-structure)
+4. [Network](#-network)
+5. [Operating System](#-operating-system)
+6. [Database](#-database)
+7. [Javascript](#-javascript)
+8. [Python](#-python)
+9. [Web](#-web)
 
 <br>
 <!--
@@ -42,6 +43,11 @@
 
 <br>
 
+## 📌 Computer Architecture
+- [CPU 작동원리](https://github.com/Haeun-Jung/TIL/blob/main/ComputerArchitecture/CPU작동원리.md)
+
+<br>
+
 ## 📌 Data Structure
 - [배열(Array)과 연결 리스트(Linked List)의 차이점](https://github.com/Haeun-Jung/TIL/blob/main/DataStructure/Array%26LinkedList.md)
 
@@ -60,6 +66,7 @@
 - [Process와 Thread](https://github.com/Haeun-Jung/TIL/blob/master/OperatingSystem/Process&Thread.md)
 - [유저 레벨 스레드와 커널 레벨 스레드](https://github.com/Haeun-Jung/TIL/blob/master/OperatingSystem/UserThread&KernelThread.md)
 - [Context Switching](https://github.com/Haeun-Jung/TIL/blob/main/OperatingSystem/Context_Switching.md)
+- [뮤텍스와 세마포어](https://github.com/Haeun-Jung/TIL/blob/main/OperatingSystem/Mutex&Semaphore.md)
 
 <br>
 
